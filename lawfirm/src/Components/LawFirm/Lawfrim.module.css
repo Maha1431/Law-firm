@@ -1,0 +1,102 @@
+.Box{
+    width: 100vw;
+    height: 690px;
+    padding: 100px 150px 100px 100px;
+    background-color: #111111;
+}
+.nBox{
+    width: 900px;
+height: 500px;
+padding: 50px;
+margin: 10px;
+border: 2px solid #111111;
+color: #FFFFFF;
+}
+.logo {
+    margin-right: 100px;
+}
+.Connectbox{
+    background-color: #111111;
+    border: 2px solid #FFFFFF;
+    color: #FFFFFF;
+    padding: 10px;
+    border-top-style: none; 
+    border-right: none;
+}.header{
+    display: flex;
+    justify-content: space-between;
+}
+.heading{
+width: 571px;
+height: 200px;
+font-family: Inter;
+font-size: 66px;
+font-weight: 500;
+line-height: 97px;
+letter-spacing: 0em;
+text-align: left; 
+
+}
+
+.para{
+ width: 560px;
+height: 99px;
+opacity: 30%;
+color: #FFFFFF;
+font-family: Inter;
+font-size: 18px;
+font-weight: 500;
+line-height: 29px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.from{
+display: flex;
+justify-content: space-between;
+width: 450px;
+height: 74px;
+border-radius: 43px;
+opacity:20%;
+background-color: #2E2E2E;
+color: #FFFFFF;
+}
+.input{
+    width: 200px;
+height: 20px;
+margin-top: 20px;
+margin-left: 10px;
+opacity: 0.8px;
+border: none;
+font-family: Inter;
+font-weight: 500;
+padding-right: 70px;
+justify-content: flex-start;
+background-color: #2E2E2E;
+}
+.button{
+width: 137px;
+height: 62px;
+border-radius: 43px;
+background: #E3B748;
+
+}
+.content{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.icon{
+margin-left: 10px;
+margin-top: 20px;
+opacity:50%;
+width: 18.33px;
+height: 16.5px;
+
+}
+
+.photo{
+    width: 350.51px;
+    height: 509.07px;
+    margin-right: 20px;
+}

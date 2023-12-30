@@ -1,0 +1,28 @@
+.container{
+    width: 100vw;
+height: 550px;
+padding-top: 100px;
+padding-left: 100px;
+color: #FFFFFF;
+border: 2px;
+}
+
+.heading{
+    width: 907px;
+    height: 77px;
+    text-align: center;
+}
+.cardcontainer{
+    display: flex;
+  text-align: start;
+  height: auto;
+  gap: 40px;
+  
+}
+.Button{
+ width: 111px;
+height: 43px;
+border-radius: 23.5px !important;
+background-color: #E3B748 !important;
+color:  #000000 !important;
+}

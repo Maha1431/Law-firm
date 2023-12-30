@@ -1,0 +1,42 @@
+.container{
+    Width:1000px;
+    Height:174px;
+    padding-top: 150px;
+    padding-left: 150px;
+    color: #FFFFFF;
+}
+.heading{
+ width: 387px;
+height: 100px;
+font-family: Inter;
+font-size: 24px;
+font-weight: 200;
+text-align: left;
+
+}
+.content{
+width: 475px;
+height: 105px;
+}
+.head{
+width: 200px;
+height: auto;
+padding-top: 10px;
+font-family: Inter;
+font-size: 22px;
+font-weight: 600;
+letter-spacing: 0em;
+text-align: center;
+}
+.para{
+ width: 475px;
+height: 87px;
+opacity: 30%;
+font-family: Inter;
+font-size: 18px;
+font-weight: 500;
+line-height: 29px;
+letter-spacing: 0em;
+text-align: left;
+
+}

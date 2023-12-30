@@ -1,0 +1,38 @@
+.box{
+    width: 1140px;
+   height: 1000px;
+   margin-top: 100px;
+   margin-left: 70px;
+   text-align: center;
+   border-radius: 14px;
+   color: #FFFFFF;
+   }
+
+  .text{
+    width: 119px;
+    height: 44px;
+    font-family: Inter;
+    margin-left: 37px;
+font-size: 18px;
+font-weight: 600;
+line-height: 14px;
+letter-spacing: 0em;
+text-align: left;
+margin-bottom: 10px; 
+  }
+  .para{
+    margin-top: 5px;
+height: 24px;
+opacity: 40%;
+font-family: Inter;
+font-size: 14px;
+font-weight: 400;
+text-align: center;
+  }
+  .grid{
+    width: 178px;
+height: 150px;
+/* top: 4601px
+left: 578px */
+
+  }
