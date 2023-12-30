@@ -1,0 +1,29 @@
+.box{
+    width: 1340px;
+height: 367px;
+margin-top: 60px;
+background: #171717;
+display: flex;
+justify-content: space-around;
+align-items: center;
+}
+.logo{
+    margin-bottom: 130px;
+}
+.header{
+    margin-right: 20px;
+}
+.text{
+    display: flex;
+    gap:10px;
+    justify-content: center;
+    align-items: center;
+    color: #FFFFFF;
+    font-family: Helvetica Now Display;
+font-size: 12px;
+font-weight: 400;
+line-height: 20px;
+letter-spacing: 0px;
+text-align: left;
+padding-top: 100px;
+}

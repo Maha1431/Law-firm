@@ -1,0 +1,28 @@
+.box{
+    width: 1040px;
+height: 629px;
+margin-top: 0px;
+margin-left: 152px;
+border: 2px ;
+color: #FFFFFF;
+display: flex;
+justify-content: space-between;
+}
+.btn{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.text{
+    width: 557px;
+    height: 130px;
+    opacity: 30%;
+    font-family: Inter;
+font-size: 18px;
+font-weight: 500;
+line-height: 29px;
+letter-spacing: 0em;
+text-align: left;
+
+     
+}
